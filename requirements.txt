@@ -1,0 +1,5 @@
+PyQt6
+open3d
+numpy
+scipy # For B-Spline / NURBS Surface (Smooth Sheet) method
+trimesh # For STEP export
