@@ -65,6 +65,5 @@ Not all 3D shapes are the same, so we provide four different reconstruction meth
 ├── maincode.py               # Main application logic
 ├── assets/                   # Store your screenshots here!
 ├── requirements.txt          # Dependencies
-├── README.md                 # Project documentation
-└── LICENSE.md                # MIT License
-```
+└── README.md                 # Project documentation
+
