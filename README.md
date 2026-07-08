@@ -12,7 +12,7 @@ This is the starting point—a collection of thousands of individual points in 3
 
 ### 2. The Output: Reconstructed Surface
 The dashboard applies advanced math to "connect the dots" and create a continuous, smooth 3D mesh ready for 3D printing or CAD modeling.
-![Reconstructed Surface](assets/after_mesh_B-Spline.png) ![Reconstructed Surface](assets/after_mesh_Poisson.png)
+![Reconstructed Surface](assets/after_mesh_B-Spline.png) ![Reconstructed Surface](assets/after_mesh_poisson.png)
 
 
 ---
