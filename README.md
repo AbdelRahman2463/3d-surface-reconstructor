@@ -7,7 +7,7 @@ An interactive PyQt6-based desktop application for real-time 3D surface reconstr
 Visualizing the reconstruction process is key to understanding how these algorithms work. Below is an example of a raw point cloud being transformed into a solid surface.
 
 ### 1. The Input: Raw Point Cloud
-This is the starting point—a collection of thousands of individual points in 3D space, often captured by LiDAR or depth cameras.
+This is the starting point—a collection of thousands of individual points in 3D space, captured by a laser sensor in a CNC machine.
 ![Raw Point Cloud](assets/before_point_cloud.png)
 
 ### 2. The Output: Reconstructed Surface
