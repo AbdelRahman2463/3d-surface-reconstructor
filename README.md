@@ -67,6 +67,10 @@ Not all 3D shapes are the same, so we provide four different reconstruction meth
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
 
-##📄 Full Documentation
+```
+## 📄 Full Documentation
 A comprehensive technical report detailing the mathematical background and performance benchmarks is currently in progress and will be added to the /docs folder soon.
+
+
+
 
