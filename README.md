@@ -68,7 +68,3 @@ Not all 3D shapes are the same, so we provide four different reconstruction meth
 ├── README.md                 # Project documentation
 └── LICENSE.md                # MIT License
 ```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
